@@ -13,7 +13,7 @@
 <!-- ### Contact With Me -->
 <!-- ### Contact With Me -->
 
-<!-- ![emailto:azizov.mirkhakimjon@gmail.com](https://img.shields.io/badge/-azizov.mirkhakimjon@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+<!-- ![emailto:mrdi.front@gmail.com](https://img.shields.io/badge/-mrdi.front@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/MirhakimAzizov) -->
 
 ### Most used language
